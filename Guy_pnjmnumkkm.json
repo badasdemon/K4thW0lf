@@ -36,76 +36,43 @@
   "Categories": [
     {
       "id": 1,
-      "name_category": "",
-      "image": ""
+      "name_category": "Pinjaman UMKM",
+      "image": "https://www.iidyanie.com/wp-content/uploads/2021/09/pinjaman-umkm-dukung-pertumbuhan-ekonomi.png"
     }
   ],
   "Data": [
     {
       "id": 1,
-      "name_category": "",
-      "title": "",
-      "image": "",
+      "name_category": "Pinjaman UMKM",
+      "title": "4 Langkah Mudah Mendapatkan Pinjaman Usaha untuk UKM",
+      "image": "https://www.hsbc.co.id/1/PA_esf-ca-app-content/content/indonesia/personal/offers/news-and-lifestyle/files/articles/html/201907/images/HSBC_content_6-header.jpg",
       "description": "",
-      "link": "https://aweu.net/"
+      "link": "https://aweu.net/GUIDE/Kathwolf/Pinjaman%20UMKM/4%20Langkah%20Mudah%20Mendapatkan.html"
     },
     {
       "id": 2,
-      "name_category": "",
-      "title": "",
-      "image": "",
+      "name_category": "Pinjaman UMKM",
+      "title": "Cara Daftar UMKM Secara Online 2023 Gratis Semua Bank",
+      "image": "https://www.ayovaksindinkeskdi.id/wp-content/uploads/2022/11/Cara-Daftar-UMKM-2022-Online-Melalui-OSS-600x346.jpg",
       "description": "",
-      "link": "https://aweu.net/"
+      "link": "https://aweu.net/https://aweu.net/GUIDE/Kathwolf/Pinjaman%20UMKM/Cara%20Daftar%20UMKM.html"
    },
     {
       
       "id": 3,
-      "name_category": "",
-      "title": "",
-      "image": "",
+      "name_category": "Pinjaman UMKM",
+      "title": "Cara UMKM Ajukan Pinjaman KUR BRI 2023 Rp 100 Juta Tanpa Jaminan, Lengkapi Syarat Pinjam Uang di Bank BRI Ini",
+      "image": "https://www.iidyanie.com/wp-content/uploads/2021/09/pinjaman-umkm-dukung-pertumbuhan-ekonomi.png",
       "description": "",
-      "link": "https://aweu.net/"
+      "link": "GUIDE/Kathwolf/Pinjaman%20UMKM/Cara%20UMKM%20Ajukan%20Pinjaman.html"
     },
     {
       "id": 4,
-      "name_category": "",
-      "title": "",
-      "image": "",
+      "name_category": "Pinjaman UMKM",
+      "title": "Syarat Pengajuan KUR BRI 2023 dan Cara Daftarnya",
+      "image": "https://statik.tempo.co/data/2020/01/21/id_908084/908084_720.jpg",
       "description": "",
-      "link": "https://aweu.net/"
-    },
-        {
-      "id": 5,
-      "name_category": "",
-      "title": "",
-      "image": "",
-      "description": "",
-      "link": "https://aweu.net/"
-    },
-    {
-      "id": 6,
-      "name_category": "",
-      "title": "",
-      "image": "",
-      "description": "",
-      "link": "https://aweu.net/"
-   },
-    {
-      
-      "id": 7,
-      "name_category": "",
-      "title": "",
-      "image": "",
-      "description": "",
-      "link": "https://aweu.net/"
-    },
-    {
-      "id": 8,
-      "name_category": "",
-      "title": "",
-      "image": "",
-      "description": "",
-      "link": "https://aweu.net/"
+      "link": "https://aweu.net/GUIDE/Kathwolf/Pinjaman%20UMKM/Syarat%20Pengajuan%20KUR.html"
     }
   ]
 }
