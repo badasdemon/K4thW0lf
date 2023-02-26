@@ -36,76 +36,43 @@
   "Categories": [
     {
       "id": 1,
-      "name_category": "",
-      "image": ""
+      "name_category": "Cek Bantuan UMKM",
+      "image": "https://cdn-2.tstatic.net/tribunnews/foto/bank/images/inilah-cara-cek-penerima-blt-umkm-di-bri-dan-bni.jpg"
     }
   ],
   "Data": [
     {
       "id": 1,
-      "name_category": "",
-      "title": "",
-      "image": "",
+      "name_category": "Cara Cek Bantuan UMKM",
+      "title": "Cara Cek Bantuan UMKM 2023 Lewat HP + Mendapatkannya",
+      "image": "https://www.ayovaksindinkeskdi.id/wp-content/uploads/2022/11/Cara-Cek-Bantuan-UMKM-Secara-Online-600x333.jpg",
       "description": "",
-      "link": "https://aweu.net/"
+      "link": "https://aweu.net/GUIDE/Kathwolf/Cek%20Bantuan%20UMKM/Cara%20Cek%20Bantuan%20UMKM.html"
     },
     {
       "id": 2,
-      "name_category": "",
-      "title": "",
-      "image": "",
+      "name_category": "Cara Cek Bantuan UMKM",
+      "title": "Cara Cek Penerima BLT UMKM 2022 lewat eform.bri.co.id",
+      "image": "https://cdn-2.tstatic.net/tribunnews/foto/bank/images/inilah-cara-cek-penerima-blt-umkm-di-bri-dan-bni.jpg",
       "description": "",
-      "link": "https://aweu.net/"
+      "link": "https://aweu.net/GUIDE/Kathwolf/Cek%20Bantuan%20UMKM/Cara%20Cek%20Penerima%20BLT%20UMKM.html"
    },
     {
       
       "id": 3,
-      "name_category": "",
-      "title": "",
-      "image": "",
+      "name_category": "Cara Cek Bantuan UMKM",
+      "title": "Cek Penerima BLT UMKM Rp1,2 Juta Lewat HP di Sini, Klik eform.bri.co.id",
+      "image": "https://images.bisnis.com/posts/2022/10/09/1585670/eform-bri-co-id.jpg",
       "description": "",
-      "link": "https://aweu.net/"
+      "link": "https://aweu.net/GUIDE/Kathwolf/Cek%20Bantuan%20UMKM/Cek%20Penerima%20BLT%20UMKM.html"
     },
     {
       "id": 4,
-      "name_category": "",
-      "title": "",
-      "image": "",
+      "name_category": "Cara Cek Bantuan UMKM",
+      "title": "Link Resmi Cek Penerima BLT UMKM Rp1,2 Juta Pakai HP, Cek Namamu di Sini!",
+      "image": "https://images.bisnis.com/posts/2022/10/09/1585670/eform-bri-co-id.jpg",
       "description": "",
-      "link": "https://aweu.net/"
-    },
-        {
-      "id": 5,
-      "name_category": "",
-      "title": "",
-      "image": "",
-      "description": "",
-      "link": "https://aweu.net/"
-    },
-    {
-      "id": 6,
-      "name_category": "",
-      "title": "",
-      "image": "",
-      "description": "",
-      "link": "https://aweu.net/"
-   },
-    {
-      
-      "id": 7,
-      "name_category": "",
-      "title": "",
-      "image": "",
-      "description": "",
-      "link": "https://aweu.net/"
-    },
-    {
-      "id": 8,
-      "name_category": "",
-      "title": "",
-      "image": "",
-      "description": "",
-      "link": "https://aweu.net/"
+      "link": "https://aweu.net/GUIDE/Kathwolf/Cek%20Bantuan%20UMKM/Link%20Resmi%20Cek%20Penerima%20BLT.html"
     }
   ]
 }
