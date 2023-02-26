@@ -36,76 +36,43 @@
   "Categories": [
     {
       "id": 1,
-      "name_category": "",
-      "image": ""
+      "name_category": "Kredit Tanpa Agunan",
+      "image": "https://financer.com/app/uploads/sites/28/2019/10/kta.png"
     }
   ],
   "Data": [
     {
       "id": 1,
-      "name_category": "",
-      "title": "",
-      "image": "",
+      "name_category": "Kredit Tanpa Agunan",
+      "title": "Butuh Kredit Tanpa Agunan? Ini Syarat Pinjam di BCA, BNI, dan CIMB Niaga",
+      "image": "https://financer.com/app/uploads/sites/28/2019/10/kta.png",
       "description": "",
-      "link": "https://aweu.net/"
+      "link": "https://aweu.net/GUIDE/Kathwolf/Kredit%20Tanpa%20Agunan/Butuh%20Kredit%20Tanpa%20Agunan.html"
     },
     {
       "id": 2,
-      "name_category": "",
-      "title": "",
-      "image": "",
+      "name_category": "Kredit Tanpa Agunan",
+      "title": "Inilah Cara Meminjam Uang di Bank Tanpa Agunan",
+      "image": "https://financer.com/app/uploads/sites/28/2019/10/kta.png",
       "description": "",
-      "link": "https://aweu.net/"
+      "link": "https://aweu.net/GUIDE/Kathwolf/Kredit%20Tanpa%20Agunan/Inilah%20Cara%20Meminjam%20Uang%20di%20Bank.html"
    },
     {
       
       "id": 3,
-      "name_category": "",
-      "title": "",
-      "image": "",
+      "name_category": "Kredit Tanpa Agunan",
+      "title": "Tentang Kredit Tanpa Agunan (KTA)",
+      "image": "https://image.cermati.com/q_70/cooo4u89njuegtpsrhkk",
       "description": "",
-      "link": "https://aweu.net/"
+      "link": "https://aweu.net/GUIDE/Kathwolf/Kredit%20Tanpa%20Agunan/Kredit%20Tanpa%20Agunan.html"
     },
     {
       "id": 4,
-      "name_category": "",
-      "title": "",
-      "image": "",
+      "name_category": "Kredit Tanpa Agunan",
+      "title": "Kredit Tanpa Jaminan",
+      "image": "https://financer.com/app/uploads/sites/28/2019/10/kta.png",
       "description": "",
-      "link": "https://aweu.net/"
-    },
-        {
-      "id": 5,
-      "name_category": "",
-      "title": "",
-      "image": "",
-      "description": "",
-      "link": "https://aweu.net/"
-    },
-    {
-      "id": 6,
-      "name_category": "",
-      "title": "",
-      "image": "",
-      "description": "",
-      "link": "https://aweu.net/"
-   },
-    {
-      
-      "id": 7,
-      "name_category": "",
-      "title": "",
-      "image": "",
-      "description": "",
-      "link": "https://aweu.net/"
-    },
-    {
-      "id": 8,
-      "name_category": "",
-      "title": "",
-      "image": "",
-      "description": "",
-      "link": "https://aweu.net/"
+      "link": "https://aweu.net/GUIDE/Kathwolf/Kredit%20Tanpa%20Agunan/Kredit%20Tanpa%20Jaminan.html"
     }
   ]
 }
