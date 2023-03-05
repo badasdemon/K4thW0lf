@@ -1,0 +1,86 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"ca-app-pub-3940256099942544/2247696110",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "open_ads_admob":"ca-app-pub-3940256099942544/3419835294",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+   "More": [
+    {
+      "id": 1,
+      "title": "",
+      "image": "",
+      "link": ""
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Spay Later",
+      "image": "https://asset-a.grid.id/crop/0x0:0x0/700x465/photo/2021/05/25/whatsapp-image-2021-05-25-at-10-20210525103348.jpeg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Spay Later",
+      "title": "2 Cara Mencairkan Shopee Paylater ke Uang Tunai dan Rekening, Langsung Cair Kapan Aja",
+      "image": "https://jabarekspres.com/wp-content/uploads/2023/01/mencairkan-spaylater.jpg",
+      "description": "",
+      "link": "https://aweu.net/Kathwolf/kloter%202/Spaylater/2%20Cara%20Mencairkan%20Shopee%20Paylater%20ke.html"
+    },
+    {
+      "id": 2,
+      "name_category": "Spay Later",
+      "title": "2 Cara Mencairkan Shopee Paylater ke DANA atau Rekening",
+      "image": "https://tipkerja.com/wp-content/uploads/2021/03/Cara-Mencairkan-Shopee-PayLater-ke-Rekening-1024x576.webp",
+      "description": "",
+      "link": "https://aweu.net/GUIDE/Kathwolf/kloter%202/Spaylater/2%20Cara%20Mencairkan%20Shopee.html"
+   },
+    {
+      
+      "id": 3,
+      "name_category": "Spay Later",
+      "title": "11 Cara Mencairkan Shopee PayLater Ke OVO, GoPay Dan Rekening Bank",
+      "image": "https://jabarekspres.com/wp-content/uploads/2023/01/mencairkan-spaylater.jpg",
+      "description": "",
+      "link": "https://aweu.net/GUIDE/Kathwolf/kloter%202/Spaylater/11%20Cara%20Mencairkan%20Shopee.html"
+    },
+    {
+      "id": 4,
+      "name_category": "Spay Later",
+      "title": "Cara Cairkan Akulaku Paylater Jadi Uang Tunai ke Rekening dengan Cepat",
+      "image": "https://asset-a.grid.id/crop/0x0:0x0/700x465/photo/2021/05/25/whatsapp-image-2021-05-25-at-10-20210525103348.jpeg",
+      "description": "",
+      "link": "https://aweu.net/GUIDE/Kathwolf/kloter%202/Spaylater/Cara%20Cairkan%20Akulaku.html"
+    },
+        {
+      "id": 5,
+      "name_category": "Spay Later",
+      "title": "Cara Mencairkan Shopee PayLater ke Rekening Bank",
+      "image": "https://investbro.id/wp-content/uploads/2022/07/Cara-Mencairkan-Shopee-PayLater-930x620.png",
+      "description": "",
+      "link": "https://aweu.net/GUIDE/Kathwolf/kloter%202/Spaylater/Cara%20Mencairkan%20Shopee%20PayLater.html"
+    }
+  ]
+}
