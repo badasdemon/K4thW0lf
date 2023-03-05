@@ -1,0 +1,86 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"ca-app-pub-3940256099942544/2247696110",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "open_ads_admob":"ca-app-pub-3940256099942544/3419835294",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+   "More": [
+    {
+      "id": 1,
+      "title": "",
+      "image": "",
+      "link": ""
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Guide Spinjam",
+      "image": "https://cicilan.id/wp-content/uploads/2022/12/Cara-Menggunakan-Spinjam-Shopee.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Guide Spinjam",
+      "title": "Cara Pinjam Uang di Shopee dengan SPinjam, Proses Cepat Langsung Cair!",
+      "image": "https://cicilan.id/wp-content/uploads/2022/12/Cara-Menggunakan-Spinjam-Shopee.jpg",
+      "description": "",
+      "link": "https://aweu.net/GUIDE/Kathwolf/kloter%202/Spinjam/Cara%20Pinjam%20Uang%20di%20Shopee%20dengan%20SPinjam.html"
+    },
+    {
+      "id": 2,
+      "name_category": "Guide Spinjam",
+      "title": "Cara Pinjam Uang Di Shopee Pinjam Untuk Pengguna Baru",
+      "image": "https://www.ayovaksindinkeskdi.id/wp-content/uploads/2023/02/2-47.png",
+      "description": "",
+      "link": "https://aweu.net/GUIDE/Kathwolf/kloter%202/Spinjam/Cara%20Pinjam%20Uang%20Di%20Shopee%20Pinjam.html"
+   },
+    {
+      
+      "id": 3,
+      "name_category": "Guide Spinjam",
+      "title": "Cara Pinjam Uang di Shopee untuk Pengguna Baru dan Syaratnya",
+      "image": "https://cicilan.id/wp-content/uploads/2022/12/Cara-Menggunakan-Spinjam-Shopee.jpg",
+      "description": "",
+      "link": "https://aweu.net/GUIDE/Kathwolf/kloter%202/Spinjam/Cara%20Pinjam%20Uang%20di%20Shopee%20untuk.html"
+    },
+    {
+      "id": 4,
+      "name_category": "Guide Spinjam",
+      "title": "Cara Pinjam Uang di Shopee, Begini Cara Mengaktifkan SPinjam",
+      "image": "https://www.radarbandung.id/wp-content/uploads/2023/01/uang-shopee.jpg",
+      "description": "",
+      "link": "https://aweu.net/GUIDE/Kathwolf/kloter%202/Spinjam/Cara%20Pinjam%20Uang%20di%20Shopee.html"
+    },
+        {
+      "id": 5,
+      "name_category": "Guide Spinjam",
+      "title": "Langsung Cair, Berikut Cara Pinjam Uang di Shopee",
+      "image": "https://cicilan.id/wp-content/uploads/2022/12/Cara-Menggunakan-Spinjam-Shopee.jpg",
+      "description": "",
+      "link": "https://aweu.net/GUIDE/Kathwolf/kloter%202/Spinjam/Langsung%20Cair%2C%20Berikut%20Cara.html"
+    }
+  ]
+}
